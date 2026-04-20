@@ -1,0 +1,46 @@
+[
+  {
+    "chunk_id": "acceptable_use_policy.md#chunk_0",
+    "source": "acceptable_use_policy.md",
+    "source_path": "acceptable_use_policy.md",
+    "chunk_index": 0,
+    "text": "# Acceptable Use Policy Company laptops, mobile devices, and collaboration systems are provided for authorized business use. Users must protect company data and prevent unauthorized disclosure. Users may not install unapproved software, disable endpoint protection, or share their credentials with any other person. Reasonable personal use is permitted if it is occasional, does not interfere with business operations, does not consume excessive resources, and does not violate any security requirements. Users must immediately report suspicious emails, malware alerts, and lost or stolen devices to the Service Desk or Security Operations.",
+    "citation": "[acceptable_use_policy.md#chunk_0]",
+    "char_start": 0,
+    "char_end": 640,
+    "token_count": 90
+  },
+  {
+    "chunk_id": "incident_reporting_standard.md#chunk_0",
+    "source": "incident_reporting_standard.md",
+    "source_path": "incident_reporting_standard.md",
+    "chunk_index": 0,
+    "text": "# Incident Reporting Standard All suspected security incidents must be reported as soon as possible and no later than one hour after discovery. Reports should be submitted to the Security Operations team through the incident hotline, ticketing system, or designated emergency channel. Employees must include the time of discovery, systems affected, a brief description of observed behavior, and any containment steps already taken. Personnel must not delete logs, power off affected systems, or contact suspected attackers unless directed by the incident response team. High-severity incidents involving customer data or regulated systems must be escalated to the Incident Commander immediately.",
+    "citation": "[incident_reporting_standard.md#chunk_0]",
+    "char_start": 0,
+    "char_end": 695,
+    "token_count": 99
+  },
+  {
+    "chunk_id": "password_policy.md#chunk_0",
+    "source": "password_policy.md",
+    "source_path": "password_policy.md",
+    "chunk_index": 0,
+    "text": "# Password Policy All workforce accounts must use passwords that are at least 14 characters long. Passwords must contain characters from at least three of the following groups: uppercase letters, lowercase letters, numbers, and symbols. Passwords for privileged or administrator accounts must be unique and may not be reused across systems. Privileged accounts must also use multi-factor authentication. Shared accounts are prohibited unless a documented exception is approved by the Information Security team and compensating controls are implemented. Service account passwords must be stored in the approved secrets management platform and rotated at least every 90 days.",
+    "citation": "[password_policy.md#chunk_0]",
+    "char_start": 0,
+    "char_end": 673,
+    "token_count": 97
+  },
+  {
+    "chunk_id": "privileged_access_standard.md#chunk_0",
+    "source": "privileged_access_standard.md",
+    "source_path": "privileged_access_standard.md",
+    "chunk_index": 0,
+    "text": "# Privileged Access Standard Privileged access may only be granted when a documented business need exists and the request is approved by the system owner and the user's manager. Privileged accounts must be separate from standard user accounts. Administrative actions must be logged and reviewed regularly by the responsible platform team. Multi-factor authentication is required for all remote privileged access and for any privileged access to production systems. Emergency privileged access must be time-bound, recorded in the ticketing system, and reviewed within two business days.",
+    "citation": "[privileged_access_standard.md#chunk_0]",
+    "char_start": 0,
+    "char_end": 585,
+    "token_count": 85
+  }
+]

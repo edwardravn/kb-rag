@@ -1,0 +1,12 @@
+faiss-cpu<2.0.0,>=1.13.0
+fastapi<1.0.0,>=0.115.0
+numpy<3.0.0,>=1.25.0
+openai<2.0.0,>=1.40.0
+pydantic<3.0.0,>=2.7.0
+pydantic-settings<3.0.0,>=2.3.0
+typer<1.0.0,>=0.12.3
+uvicorn[standard]<1.0.0,>=0.30.0
+
+[dev]
+httpx<1.0.0,>=0.27.0
+pytest<9.0.0,>=8.2.0
